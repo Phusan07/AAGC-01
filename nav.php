@@ -6,7 +6,7 @@
             <a class="nav-link" data-widget="pushmenu" href="#" role="button"><i class="fas fa-bars"></i></a>
         </li>
         <li class="nav-item d-none d-sm-inline-block ">
-            <a href="index2.php" class="nav-link"><i class="fas fa-home"></i></i>Home</a>
+            <a href="index.php" class="nav-link"><i class="fas fa-home"></i></i>Home</a>
         </li>
         <li class="nav-item d-none d-sm-inline-block">
             <a href="#" class="nav-link"></a>
@@ -31,7 +31,7 @@
 <!-- Main Sidebar Container -->
 <aside class="main-sidebar sidebar-dark-danger elevation-4">
     <!-- Brand Logo -->
-    <a href="index2.php" class="brand-link">
+    <a href="index.php" class="brand-link">
         <i class="fas fa-suitcase" aria-hidden="true"></i>
         <span class="brand-text font-weight-bold " style="text-align: center;">ADMIN SPACE</span>
     </a>

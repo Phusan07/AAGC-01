@@ -11,14 +11,13 @@ mysqli_close($con);
     if($result){
     echo "<script type='text/javascript'>";
     //echo "alert('เพิ่มข้อมูลเรียบร้อยแล้ว');";
-   //echo "window.location = 'type.php'; ";
+    //echo "window.location = 'type.php'; ";
     echo "window.location.href = 'https://player.flipsnack.com?hash=QzY4RkY4RUVGQjUreGs4NDk1a3Z4bg==';";
     echo "</script>";
-    }
-    //else{
+} else {
     echo "<script type='text/javascript'>";
     echo "alert('ข้อมูลผิดพลาด');";
-    echo "window.location = 'type.php'; ";
+    echo "window.location = 'index1.php'; ";
     echo "</script>";
-//}
+}
 ?>
